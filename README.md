@@ -52,8 +52,8 @@ A fully functional and secure **eCommerce website** built with **Python Django**
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mostofaahmed101/
-   cd abc
+   git clone https://github.com/mostofaahmed101/Computer_Accessories_Shop-Ecom.git
+   cd Computer_Accessories_Shop-Ecom
    ```
 2. **(Optional) Create virtual environment**
 
